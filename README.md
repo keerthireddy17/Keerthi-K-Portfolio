@@ -64,3 +64,31 @@ Business; Data Visualization.
 
 Relevant coursework: Foundations of Programming in C; Introduction to Python programming; Optimizing Software
 Development Lifecycle; Project Management.
+
+<h2 style="font-weight: bold; text-decoration: underline;">Projects </h2>
+
+Explore this selection of projects that highlight my expertise in data engineering and data science. Each project demonstrates my ability to harness data, address real-world challenges, and deliver actionable insights.
+
+<h3 style="font-weight: bold;">1. Data Science using Python</h3>
+
+<strong>Housing Price Prediction</strong>
+
+<strong>Description:</strong>
+
+This project focuses on predicting housing prices in California using a detailed machine learning approach. Key tasks include improving data quality through preprocessing, feature engineering, and handling missing values. The project employs Linear Regression for prediction, applies log transformations to stabilize variance, and uses the Variance Inflation Factor (VIF) to address multicollinearity. Visualizations in Tableau complement the analysis, providing actionable insights.
+
+<strong>Objective:</strong>
+
+To develop a robust regression model that accurately predicts median California home prices based on factors such as location, housing attributes, economic indicators, and demographics. Evaluate the model's performance with statistical metrics and visualizations.
+
+<strong>Skills:</strong>
+
+Data preprocessing, feature engineering, regression analysis, model evaluation, data visualization
+
+<strong>Technology:</strong>
+
+Python, Scikit-learn, Pandas, NumPy, Tableau, Matplotlib, Seaborn
+
+<strong>Results:</strong>
+
+The regression model achieved a high R-squared value, indicating strong performance in predicting median housing prices. Key findings include a moderate positive correlation between median income and housing prices (0.69), suggesting higher incomes lead to more expensive homes. Housing characteristics such as median age and total rooms show weak positive correlations with prices, while location features like latitude and longitude exhibit weak negative correlations. Population density also has a weak negative correlation with housing prices. These results highlight the significance of socioeconomic and geographic factors in determining home prices.
