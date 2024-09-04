@@ -166,3 +166,14 @@ In this project, I analyzed data on unicorn companies (private startups valued a
 - Uncovered significant industry trends and valuation patterns among unicorn companies.
 - Offered strategic advice to the investment firm for optimizing their portfolio and investment strategy.
 
+
+
+
+
+
+<h1 style="font-weight: bold;text-decoration: underline;">Thank you!</h1>
+
+<i>Sincerely,</i>
+
+Keerthi Reddy K
+
