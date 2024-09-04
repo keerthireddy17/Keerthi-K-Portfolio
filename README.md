@@ -37,7 +37,7 @@ Let’s explore how I can contribute to your next data-driven project.
 
 My journey into the world of data truly began during my time at CTS. Working on large-scale data projects, I was amazed by the power and potential of data to drive decisions, uncover insights, and solve complex problems. This experience sparked my passion for Data Engineering, as I saw firsthand how data could be transformed into a valuable asset. My fascination with data grew as I learned to build and optimize data pipelines, manage vast datasets, and use advanced tools to ensure seamless data flow across systems. This realization led me to fully embrace Data Engineering as my career path.
 
-<h3 style="font-weight: bold; text-decoration: underline;">Technical Skills</h3>
+<h2 style="font-weight: bold; text-decoration: underline;">Technical Skills</h2>
 
   <li><strong>Programming Languages:</strong> SQL, Python</li>
   <li><strong>Big Data Technologies:</strong> Spark (SparkSQL, PySpark), Hadoop Ecosystem (HDFS, Hive, Apache Kudu)</li>
@@ -50,4 +50,17 @@ My journey into the world of data truly began during my time at CTS. Working on 
 </ul>
 
 
+<h2 style="font-weight: bold; text-decoration: underline;">Education </h2>
 
+<strong>M.S in Business Analytics</strong> - University of Massachusetts Amherst, Amherst, MA                      
+<i>Jan 2023 - May 2024</i>
+
+Relevant coursework: Advanced Database Management Systems; Python programming for Business; Big Data Analytics;
+Applied Quantitative Statistic Methods; Data Modeling; Data Mining; Business Intelligence & Analytics; Data Science for
+Business; Data Visualization.
+
+<strong>B.S in Electrical Engineering</strong>- Chaitanya Bharathi Institute of Technology, Hyderabad, India          
+<i>Aug 2016 - Sept 2020</i>
+
+Relevant coursework: Foundations of Programming in C; Introduction to Python programming; Optimizing Software
+Development Lifecycle; Project Management.
