@@ -18,7 +18,8 @@ Update: September 3rd, 2024
   
 - Email: keerthi.reddy68@gmail.com
   
-- LinkedIn: www.linkedin.com/in/keerthi-reddy-koralla
+- LinkedIn: [ClickHere](www.linkedin.com/in/keerthi-reddy-koralla) 
+
 
 Hello, I’m Keerthi Reddy K!
 
@@ -39,7 +40,7 @@ My journey into the world of data truly began during my time at CTS. Working on 
 
 <h2 style="font-weight: bold; text-decoration: underline;">Technical Skills</h2>
 
-  <li><strong>Programming Languages:</strong> SQL, Python</li>
+* **Programming Languages:** SQL, Python</li>
   <li><strong>Big Data Technologies:</strong> Spark (SparkSQL, PySpark), Hadoop Ecosystem (HDFS, Hive, Apache Kudu)</li>
   <li><strong>Databases:</strong> MySQL, PostgreSQL</li>
   <li><strong>ELT/ETL Tools:</strong> Apache Airflow, DBT</li>
