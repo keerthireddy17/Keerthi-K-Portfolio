@@ -118,3 +118,59 @@ Tools and Technologies: Utilized Python libraries such as Pandas and NumPy for d
 - Successfully cleaned and transformed the dataset, reducing the error rate and improving data quality.
 - Enhanced dataset usability for subsequent analytical tasks, including trend analysis and predictive modeling.
 - Documented the data cleaning process, providing a clear and reproducible methodology for future work.
+
+<h3 style="font-weight: bold;">2. SQL -Structured Query Language</h3>
+
+<strong>Repo</strong> : <a href="https://github.com/YourUsername/YourRepository">https://github.com/keerthireddy17/SQLPortfolio</a>
+
+<strong>Analysis of Debt Statistics</strong>
+
+<strong>Description:</strong>
+
+This project involves analyzing international debt data provided by The World Bank. The dataset includes detailed information on the amount of debt (in USD) owed by developing countries across various categories. The goal is to uncover insights into global debt patterns and their implications for economic management.
+
+<strong>Goal:</strong>
+
+-Examine and interpret debt statistics across different developing countries.
+-Identify trends and correlations in debt data.
+-Evaluate how debt impacts infrastructure spending and overall economic health.
+
+<strong>Skills:</strong>
+
+Data Analysis: Used SQL queries to aggregate, filter, and visualize debt data.
+
+Database Management: Managed large datasets to ensure accurate analysis.
+
+Reporting: Created comprehensive reports and dashboards to present findings.
+
+<strong>Results:</strong>
+
+- Identified key trends in international debt and its impact on economic stability.
+- Provided actionable insights for policymakers and economic analysts.
+
+<strong>Analysis of Unicorn Companies</strong>
+
+<strong>Description:</strong>
+
+In this project, I analyzed data on unicorn companies (private startups valued at over $1 billion) to identify trends and patterns in high-growth industries. The objective was to support an investment firm in understanding which sectors are producing the highest valuations and the emergence rate of new unicorns.
+
+<strong>Goal:</strong>
+
+- Analyze valuation trends and emerging industries within the unicorn market.
+  
+- Determine which industries are experiencing the fastest growth.
+  
+- Provide strategic insights for investment decisions and portfolio structuring.
+
+<strong>Skills:</strong>
+
+- Trend Analysis: Used SQL to extract and analyze data on unicorn valuations and industry performance.
+  
+- Investment Insight: Delivered recommendations based on data-driven findings.
+
+<strong>Results:</strong>
+
+- Uncovered significant industry trends and valuation patterns among unicorn companies.
+  
+- Offered strategic advice to the investment firm for optimizing their portfolio and investment strategy.
+
