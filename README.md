@@ -71,6 +71,8 @@ Explore this selection of projects that highlight my expertise in data engineeri
 
 <h3 style="font-weight: bold;">1. Data Science using Python</h3>
 
+<strong>Repo</strong> : <a href="https://github.com/YourUsername/YourRepository">https://github.com/keerthireddy17/Data-Science-Projects</a>
+
 <strong>Housing Price Prediction</strong>
 
 <strong>Description:</strong>
