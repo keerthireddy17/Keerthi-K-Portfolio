@@ -85,7 +85,7 @@ To develop a robust regression model that accurately predicts median California 
 
 <strong>Skills:</strong>
 
-Data preprocessing, feature engineering, regression analysis, model evaluation, data visualization
+- Data preprocessing, feature engineering, regression analysis, model evaluation, data visualization
 
 <strong>Technology:</strong>
 
@@ -107,11 +107,9 @@ The primary goal of this project was to transform raw, uncleaned data into a str
 
 <strong>Skills:</strong>
 
-Data Cleaning: Managed missing data, corrected inconsistencies, and standardized formats.
-
-Data Transformation: Converted data types, merged datasets, and created new features to enhance analysis.
-
-Tools and Technologies: Utilized Python libraries such as Pandas and NumPy for data manipulation, and Jupyter Notebooks for documentation and analysis.
+- Data Cleaning: Managed missing data, corrected inconsistencies, and standardized formats.
+- Data Transformation: Converted data types, merged datasets, and created new features to enhance analysis.
+- Tools and Technologies: Utilized Python libraries such as Pandas and NumPy for data manipulation, and Jupyter Notebooks for documentation and analysis.
 
 <strong>Results:</strong>
 
@@ -131,17 +129,15 @@ This project involves analyzing international debt data provided by The World Ba
 
 <strong>Goal:</strong>
 
--Examine and interpret debt statistics across different developing countries.
--Identify trends and correlations in debt data.
--Evaluate how debt impacts infrastructure spending and overall economic health.
+- Examine and interpret debt statistics across different developing countries.
+- Identify trends and correlations in debt data.
+- Evaluate how debt impacts infrastructure spending and overall economic health.
 
 <strong>Skills:</strong>
 
-Data Analysis: Used SQL queries to aggregate, filter, and visualize debt data.
-
-Database Management: Managed large datasets to ensure accurate analysis.
-
-Reporting: Created comprehensive reports and dashboards to present findings.
+- Data Analysis: Used SQL queries to aggregate, filter, and visualize debt data.
+- Database Management: Managed large datasets to ensure accurate analysis.
+- Reporting: Created comprehensive reports and dashboards to present findings.
 
 <strong>Results:</strong>
 
@@ -157,20 +153,16 @@ In this project, I analyzed data on unicorn companies (private startups valued a
 <strong>Goal:</strong>
 
 - Analyze valuation trends and emerging industries within the unicorn market.
-  
 - Determine which industries are experiencing the fastest growth.
-  
 - Provide strategic insights for investment decisions and portfolio structuring.
 
 <strong>Skills:</strong>
 
 - Trend Analysis: Used SQL to extract and analyze data on unicorn valuations and industry performance.
-  
 - Investment Insight: Delivered recommendations based on data-driven findings.
 
 <strong>Results:</strong>
 
 - Uncovered significant industry trends and valuation patterns among unicorn companies.
-  
 - Offered strategic advice to the investment firm for optimizing their portfolio and investment strategy.
 
