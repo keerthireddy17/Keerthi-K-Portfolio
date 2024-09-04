@@ -73,7 +73,7 @@ Explore this selection of projects that highlight my expertise in data engineeri
 
 <strong>Repo</strong> : <a href="https://github.com/YourUsername/YourRepository">https://github.com/keerthireddy17/Data-Science-Projects</a>
 
-<p class="bold-underline">Housing Price Prediction</p>
+<strong>Housing Price Prediction</strong>
 
 <strong>Description:</strong>
 
@@ -95,7 +95,7 @@ Python, Scikit-learn, Pandas, NumPy, Tableau, Matplotlib, Seaborn
 
 The regression model achieved a high R-squared value, indicating strong performance in predicting median housing prices. Key findings include a moderate positive correlation between median income and housing prices (0.69), suggesting higher incomes lead to more expensive homes. Housing characteristics such as median age and total rooms show weak positive correlations with prices, while location features like latitude and longitude exhibit weak negative correlations. Population density also has a weak negative correlation with housing prices. These results highlight the significance of socioeconomic and geographic factors in determining home prices.
 
-<p class="bold-underline">FBI DataAnalysis-Data Cleaning</p>
+<strong>FBI DataAnalysis-Data Cleaning</strong>
 
 <strong>Description:</strong>
 
