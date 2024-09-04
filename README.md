@@ -37,3 +37,17 @@ Let’s explore how I can contribute to your next data-driven project.
 
 My journey into the world of data truly began during my time at CTS. Working on large-scale data projects, I was amazed by the power and potential of data to drive decisions, uncover insights, and solve complex problems. This experience sparked my passion for Data Engineering, as I saw firsthand how data could be transformed into a valuable asset. My fascination with data grew as I learned to build and optimize data pipelines, manage vast datasets, and use advanced tools to ensure seamless data flow across systems. This realization led me to fully embrace Data Engineering as my career path.
 
+<h3 style="font-weight: bold; text-decoration: underline;">Technical Skills</h3>
+
+  <li><strong>Programming Languages:</strong> SQL, Python</li>
+  <li><strong>Big Data Technologies:</strong> Spark (SparkSQL, PySpark), Hadoop Ecosystem (HDFS, Hive, Apache Kudu)</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL</li>
+  <li><strong>ELT/ETL Tools:</strong> Apache Airflow, DBT</li>
+  <li><strong>Data Warehousing:</strong> Snowflake, Databricks</li>
+  <li><strong>Data Modeling Techniques:</strong> Star Schema, Snowflake Schema</li>
+  <li><strong>Database Performance:</strong> Indexing, Partitioning, Bucketing</li>
+  <li><strong>Additional Skills:</strong> Unix, CI/CD, Git, Microsoft Teams, Jira, Excel, SharePoint, Confluence</li>
+</ul>
+
+
+
