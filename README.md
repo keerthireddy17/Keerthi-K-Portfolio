@@ -18,7 +18,7 @@ Update: September 3rd, 2024
   
 - Email: keerthi.reddy68@gmail.com
   
-- LinkedIn: [ClickHere](www.linkedin.com/in/keerthi-reddy-koralla) 
+- LinkedIn: www.linkedin.com/in/keerthi-reddy-koralla
 
 
 Hello, I’m Keerthi Reddy K!
