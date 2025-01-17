@@ -1,7 +1,7 @@
 # Keerthi K - Portfolio
 Data Analysis & Engineering: My Journey
 
-With a solid foundation in Electrical Engineering (B.S.), I began my career at Cognizant, where I spent 3 years spanning roles as Programmer Analyst, Business Analyst, and Data Engineer. This experience ignited a passion for advanced analytics, leading me to pursue a Master's in Business Analytics from the University of Massachusetts Amherst. Now, I leverage my expertise in:
+With a solid foundation in Electrical Engineering (B.S.), I began my career at Cognizant, where I spent 5 years spanning roles as Programmer Analyst, Business Analyst, and Data Engineer. This experience ignited a passion for advanced analytics, leading me to pursue a Master's in Business Analytics from the University of Massachusetts Amherst. Now, I leverage my expertise in:
 
 - Data Engineering
 - Business Intelligence
@@ -23,9 +23,9 @@ Update: September 3rd, 2024
 
 Hello, I’m Keerthi Reddy K!
 
-I am a Data Engineer with over 3+ years of experience in business intelligence, data analytics, and engineering. My journey began with a B.S. in Electrical Engineering from CBIT, where I developed a strong foundation in programming and project management. This foundation was further strengthened by my M.S. in Business Analytics from the University of Massachusetts Amherst, where I delved deep into big data analytics, data science, and business intelligence.
+I am a Data Engineer with over 4+ years of experience in business intelligence, data analytics, and engineering. My journey began with a B.S. in Electrical Engineering from CBIT, where I developed a strong foundation in programming and project management. This foundation was further strengthened by my M.S. in Business Analytics from the University of Massachusetts Amherst, where I delved deep into big data analytics, data science, and business intelligence.
 
-In my professional experience at Cognizant Technology Solutions, I’ve excelled in roles that required not just technical proficiency but also analytical thinking. As a Programmer Analyst, I’ve consolidated risk data across departments, designed interactive dashboards, and conducted in-depth market research, directly contributing to business decisions and performance improvements. My technical toolkit includes SQL, Python, PySpark, Apache Kafka, Apache Kudu, Tableau, Power BI, and a variety of big data and cloud tools. I’ve successfully migrated terabytes of data, optimized complex data pipelines, and developed utilities that significantly reduced manual errors.
+In my professional experience, I’ve excelled in roles that required not just technical proficiency but also analytical thinking. As a Programmer Analyst, I’ve consolidated risk data across departments, designed interactive dashboards, and conducted in-depth market research, directly contributing to business decisions and performance improvements. My technical toolkit includes SQL, Python, PySpark, Apache Kafka, Apache Kudu, Tableau, Power BI, and a variety of big data and cloud tools. I’ve successfully migrated terabytes of data, optimized complex data pipelines, and developed utilities that significantly reduced manual errors.
 
 I’m driven by the challenge of uncovering the stories hidden within data and finding innovative solutions to complex problems. Whether I’m optimizing a data pipeline, designing a predictive model, or exploring new cloud technologies, I’m always eager to push the boundaries of what data can do.
 
@@ -60,11 +60,6 @@ Relevant coursework: Advanced Database Management Systems; Python programming fo
 Applied Quantitative Statistic Methods; Data Modeling; Data Mining; Business Intelligence & Analytics; Data Science for
 Business; Data Visualization.
 
-<strong>B.S in Electrical Engineering</strong>- Chaitanya Bharathi Institute of Technology, Hyderabad, India          
-<i>Aug 2016 - Sept 2020</i>
-
-Relevant coursework: Foundations of Programming in C; Introduction to Python programming; Optimizing Software
-Development Lifecycle; Project Management.
 
 <h2 style="font-weight: bold; text-decoration: underline;">Projects </h2>
 
