@@ -16,7 +16,7 @@ Update: September 3rd, 2024
   
 - Status: Currently looking for Data Engineer and Business Intelligence Engineer roles
   
-- Email: keerthi.reddy68@gmail.com
+- Email: keerthi.k@mymailkeeper.com
   
 - LinkedIn: www.linkedin.com/in/keerthi-reddy-koralla
 
